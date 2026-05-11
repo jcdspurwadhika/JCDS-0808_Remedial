@@ -3,7 +3,7 @@
 # Telco Customer Churn Analysis & Prediction
 
 [![Streamlit App](https://img.shields.io/badge/Streamlit-App-FF4B4B?style=for-the-badge&logo=streamlit)](https://telcocustomerchurnwildan.streamlit.app)
-[![Tableau Dashboard](https://img.shields.io/badge/Tableau-Dashboard-E97627?style=for-the-badge&logo=tableau)]([https://public.tableau.com/views/TelcoCustomerDashboard_17706500189310/Home](https://public.tableau.com/app/profile/muhamad.wildan.trisianly/viz/TelcoCustomerDashboard_17706500189310/Home?publish=yes))
+[![Tableau Dashboard](https://img.shields.io/badge/Tableau-Dashboard-E97627?style=for-the-badge&logo=tableau)](https://public.tableau.com/shared/QX8RP54KT?:display_count=n&:origin=viz_share_link](https://public.tableau.com/app/profile/muhamad.wildan.trisianly/viz/TelcoCustomerDashboard_17706500189310/Home?publish=yes))
 [![Presentation](https://img.shields.io/badge/Canva-Presentation-00C4CC?style=for-the-badge&logo=canva)](https://canva.link/l6yjq9bhzfy8ke0)
 
 ## 📋 Latar Belakang
@@ -446,7 +446,7 @@ Hasil SHAP menunjukkan bahwa prediksi churn paling banyak dipengaruhi oleh **tin
 ## 📱 Live Demo & Resources
 
 - **🌐 Interactive Prediction App:** StreamLit : https://telcocustomerchurnwildan.streamlit.app
-- **📊 Interactive Dashboard:** Tableau : https://public.tableau.com/app/profile/muhamad.wildan.trisianly/viz/TelcoCustomerDashboard_17706500189310/Home?publish=yes
+- **📊 Interactive Dashboard:** Tableau : https://public.tableau.com/shared/QX8RP54KT?:display_count=n&:origin=viz_share_link
 - **🎤 Project Presentation:** Canva : https://canva.link/l6yjq9bhzfy8ke0
 
 ---
