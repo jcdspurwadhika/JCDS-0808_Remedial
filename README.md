@@ -452,6 +452,11 @@ Hasil SHAP menunjukkan bahwa prediksi churn paling banyak dipengaruhi oleh **tin
 ---
 
 ## 📊 Dokumentasi Dashboard
+<img width="1342" height="733" alt="Screenshot 2026-05-11 at 23 22 31" src="https://github.com/user-attachments/assets/02142b10-895b-4607-8540-795952130067" />
+<img width="1314" height="673" alt="Screenshot 2026-05-11 at 23 23 43" src="https://github.com/user-attachments/assets/78e4661f-501c-41ea-8666-bd48fed15885" />
+<img width="1280" height="672" alt="Screenshot 2026-05-11 at 23 23 53" src="https://github.com/user-attachments/assets/14b8a9c6-6d6b-4d4c-8ce2-2e337b0337fb" />
+<img width="1284" height="662" alt="Screenshot 2026-05-11 at 23 23 30" src="https://github.com/user-attachments/assets/e567bc9c-d646-42e9-97e1-e51182ddb4d1" />
+
 
 
 
